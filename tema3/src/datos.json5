@@ -1,0 +1,11 @@
+{
+    // comment
+    title: 'JSON5 - Example',
+    owner: {
+        name: 'David Herrera',
+        organization: 'Software a tu Medida',
+        bio: 'GitHub & CEO \n\
+        Likes tater.',
+        dob: '1975-05-27',
+    },
+}
